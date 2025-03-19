@@ -1,4 +1,4 @@
-# Dig-it-ally hiring task
+# Hiring task
 
 Create an app, that has a login-like screen containing 1 input field for username and a Login button. On clicking the Login button, call the provided checkUsername function. If the provided username is valid, checkUsername will return an email address. Handle returned errors. After successful login, show a new screen with the returned email address.
 
