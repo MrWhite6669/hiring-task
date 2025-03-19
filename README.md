@@ -26,7 +26,7 @@ Create an app, that has a login-like screen containing 1 input field for usernam
 
     return {
         error: null,
-        data: `${username.toLowerCase()}@dig-it-ally.com`,
+        data: `${username.toLowerCase()}fidoo.com`,
     };
 }
 ```
